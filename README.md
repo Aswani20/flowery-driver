@@ -115,8 +115,26 @@ Distributed under the MIT License. See LICENSE for more information.
 ```text
 lib/
 │
-├── api_layer/          # Retrofit/Dio API setup
-├── data_layer/         # Data sources & repositories
-├── domain_layer/       # Use cases & entities
-├── presentation_layer/ # UI & state management (Cubit/Bloc)
+├── core/
+│   ├── aiLayer/
+│   ├── classes/
+│   ├── config/
+│   ├── di/
+│   ├── enum/
+│   ├── errors/
+│   ├── functions/
+│   ├── helpers/
+│   ├── localization/
+│   ├── models/
+│   ├── services/
+│   ├── utils/
+│   └── widgets/
+│
+├── features/
+│   ├── auth/
+│   ├── mainLayout/
+│   ├── orderDetails/
+│   └── resetPassword/
+│
+├── firebase_options.dart
 └── main.dart
