@@ -60,12 +60,12 @@ Here are some screenshots of the app in action:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Aswani20/flower_app.git
+    git clone https://github.com/Aswani20/flowery-driver.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd flower_app
+    cd flowery-driver
     ```
 
 3. Install dependencies:
@@ -106,9 +106,9 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 👨‍💻 Author
 
 1. Abdelrahman Youssef
-2. Ali Mohamed
-3. Marwan Elsokary
-4. Lbar Sidati
+2. Moataz Ebrahim
+3. Wasim Ghonim
+4. Yassen Ahmed
 
 
 ## Folder Structure
