@@ -31,21 +31,20 @@ This app communicates with a custom backend to manage products, carts, and order
 Here are some screenshots of the app in action:
 
 <p align="center">
-  <img src="assets/screenshots/login_screen.png" alt="Login Screen" width="20%" />
-  <img src="assets/screenshots/register_screen.png" alt="Register Screen" width="20%" />
+  <img src="assets/screenshots/login.png" alt="Login Screen" width="20%" />
+  <img src="assets/screenshots/apply1.png" alt="Register Screen" width="20%" />
+  <img src="assets/screenshots/apply2.png" alt="Register Screen" width="20%" />
   <img src="assets/screenshots/forget_password.png" alt="Forget Screen" width="20%" />
-  <img src="assets/screenshots/OTP_screen.png" alt="otp Screen" width="20%" />
-  <img src="assets/screenshots/home_tab.png" alt="Home screen" width="20%" />
-  <img src="assets/screenshots/search_screen.png" alt="Search screen" width="20%" />
-  <img src="assets/screenshots/bestseller_screen.png" alt="BestSeller screen" width="20%" />
-  <img src="assets/screenshots/category_tab.png" alt="Category screen" width="20%" />
-  <img src="assets/screenshots/cart_tab.png" alt="Cart screen" width="20%" />
-  <img src="assets/screenshots/filter.png" alt="Filter screen" width="20%" />
-  <img src="assets/screenshots/profile_tab.png" alt="Profile screen" width="20%" />
-  <img src="assets/screenshots/about_us.png" alt="About Us screen" width="20%" />
-  <img src="assets/screenshots/terms&conditions.png" alt="Terms Condition screen" width="20%" />
-  <img src="assets/screenshots/edit_profile.png" alt="Edit Profile screen" width="20%" />
-  <img src="assets/screenshots/logout.png" alt="Logout Screen" width="20%" />
+  <img src="assets/screenshots/otp.png" alt="Otp Screen" width="20%" />
+  <img src="assets/screenshots/success_otp.png" alt="Otp Screen" width="20%" />
+  <img src="assets/screenshots/home_tab.png" alt="Home Screen" width="20%" />
+  <img src="assets/screenshots/reject_order.png" alt="Reject Order" width="20%" />
+  <img src="assets/screenshots/accept_order.png" alt="Accept Order" width="20%" />
+  <img src="assets/screenshots/my_orders.png" alt="My Orders Screen" width="20%" />
+  <img src="assets/screenshots/order_details.png" alt="Order Details Screen" width="20%" />
+  <img src="assets/screenshots/profile_tab.png" alt="Profile Screen" width="20%" />
+  <img src="assets/screenshots/edit_profile.png" alt="Edit Profile Screen" width="20%" />
+  <img src="assets/screenshots/language.png" alt="Language creen" width="20%" />
 </p>
 
 
